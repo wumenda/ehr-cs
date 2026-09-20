@@ -2,4 +2,5 @@ bin/
 obj/
 *.user
 publish/
+.trae/
 代码质量分析与改进优化建议.md
